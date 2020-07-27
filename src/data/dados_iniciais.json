@@ -1,45 +1,45 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Nerdologia Tech",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Playlist do Nerdologia Tech no Youtube",
+        "url": "https://www.youtube.com/playlist?list=PLyRcl7Q37-DU9HA99_Ob9Vh7M0nQw8pNV"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Seria possivel cavar até o centro da Terra? | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=zYffNev0RJ8"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Algoritmos que salvam vidas",
+          "url": "https://www.youtube.com/watch?v=m0ibiy-NX9c"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Apps que podem ajudar a combater o coronavírus",
+          "url": "https://www.youtube.com/watch?v=z_tbfNynCm0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "O futuro das câmeras de celular",
+          "url": "https://www.youtube.com/watch?v=ogOE47vhKJA"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Como funciona a prova do ENEM?",
+          "url": "https://www.youtube.com/watch?v=IDNRxiNZcNg"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Supremacia Quântica",
+          "url": "https://www.youtube.com/watch?v=RWZloAavGOw"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "A maior revolução do 5G",
+          "url": "https://www.youtube.com/watch?v=mHpAO_dF674"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Como proteger seu celular de hackers",
+          "url": "https://www.youtube.com/watch?v=EIodYECw10I"
         }        
       ]
     },
