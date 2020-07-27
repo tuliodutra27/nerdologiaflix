@@ -44,140 +44,144 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Tecnologia",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Playlist de Tecnologia do Nerdologia no Youtube",
+        "url": "https://www.youtube.com/playlist?list=PLyRcl7Q37-DVa6NdvC4E4SFg8AzNquqvl"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Qual o frame rate do nosso olho?",
+          "url": "https://www.youtube.com/watch?v=OSc3WnsziKg"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Quando teremos jogos realistas como filmes",
+          "url": "https://www.youtube.com/watch?v=hHEwgKec1e4"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "A criação dos computadores pessoais",
+          "url": "https://www.youtube.com/watch?v=Vb0iORewZDA"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "A revolução dos satélites",
+          "url": "https://www.youtube.com/watch?v=xtbnUlOi_ag"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "A revolução das baterias",
+          "url": "https://www.youtube.com/watch?v=VLfc21Lk9ro"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Física",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Playlist de Física do Nerdologia no Youtube",
+        "url": "https://www.youtube.com/playlist?list=PLyRcl7Q37-DUlJKeG5cks_deXdXjUEx1-"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Seria possível socar um meteoro?",
+          "url": "https://www.youtube.com/watch?v=STUxsHRUT5c"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Seria possível parar um furacão com uma bomba atômica?",
+          "url": "https://www.youtube.com/watch?v=4p8mnKy7GxA"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Como congelar o inferno",
+          "url": "https://www.youtube.com/watch?v=rlFvb_UUgKY"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Como ser um astronauta",
+          "url": "https://www.youtube.com/watch?v=q_tfHUvxJXs"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "História",
       "cor": "orange",
+      "link_extra": {
+        "text": "Playlist de História do Nerdologia no Youtube",
+        "url": "https://www.youtube.com/playlist?list=PLyRcl7Q37-DXmpJEy_fj-HnWtvHuu_Ihi"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "As inspirações mitológicas de The Witcher",
+          "url": "https://www.youtube.com/watch?v=C2CEgSDp0Sk"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "História das Moedas do Brasil",
+          "url": "https://www.youtube.com/watch?v=3PKiaQJdzrM"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Watchmen e os distúrbios de Tulsa em 1921",
+          "url": "https://www.youtube.com/watch?v=AIdUObVum2M"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "A Crise de 1929 e o Crash da bolsa de valores",
+          "url": "https://www.youtube.com/watch?v=PuXyboguY5c"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Social",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Playlist de Social do Nerdologia no Youtube",
+        "url": "https://www.youtube.com/playlist?list=PLyRcl7Q37-DXg4_JGNJO6RrVh7bMNpMJk"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "De quem é a culpa do mal?",
+          "url": "https://www.youtube.com/watch?v=mJ1tJqH5Xso"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Por que recursos acabam em uma crise?",
+          "url": "https://www.youtube.com/watch?v=TntMzg4D-iQ"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Superpopulação",
+          "url": "https://www.youtube.com/watch?v=s5tawC8tG8c"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Porque a história do Thanos não faz sentido",
+          "url": "https://www.youtube.com/watch?v=S52AEXUfyd4"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Como memes invadem a sua mente",
+          "url": "https://www.youtube.com/watch?v=755KT0GpQjo"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Astronomia",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Playlist de Astronomia do Nerdologia no Youtube",
+        "url": "https://www.youtube.com/playlist?list=PLyRcl7Q37-DXmfJ38-ag6g8Xq8L7dZY8_"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Estamos sozinhos no universo?",
+          "url": "https://www.youtube.com/watch?v=mVJsvjC8PqM"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Afinal, que formato a Terra tem?",
+          "url": "https://www.youtube.com/watch?v=aW-qbx04gS4"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Construindo bases lunares",
+          "url": "https://www.youtube.com/watch?v=Bh7Dq5b5Xi8"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "É só uma teoria",
+          "url": "https://www.youtube.com/watch?v=kyGu9lTr_jM"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Colonização Espacial",
+          "url": "https://www.youtube.com/watch?v=-_wz_68tuhQ"
         }
       ]
     }
