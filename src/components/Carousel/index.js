@@ -1,7 +1,7 @@
 import React from 'react';
-import { VideoCardGroupContainer, VideoCardList as Title, ExtraLink } from './styles';
+import { VideoCardGroupContainer, Title, ExtraLink } from './styles';
 import VideoCard from './components/VideoCard';
-import Slider, {SliderItem} from './components/Slider';
+import Slider, { SliderItem } from './components/Slider';
 
 function Carousel({
   ignoreFirstVideo,
