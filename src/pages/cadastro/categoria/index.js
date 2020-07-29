@@ -20,10 +20,9 @@ function CadastroCategoria() {
     }
 
     function handleChange(evento) {
-        const { getAttribute, value } = evento.target;
         setValue(
-            getAttribute('name'), 
-            value
+          evento.target.getAttribute('name'),
+          evento.target.value
         );
     }
 
@@ -50,7 +49,7 @@ function CadastroCategoria() {
 
                 <FormField 
                     label="Descrição: "
-                    type="???"
+                    type="text"
                     name="descricao"
                     value={values.descricao}
                     onChange={handleChange}
